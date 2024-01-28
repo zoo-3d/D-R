@@ -13,7 +13,7 @@
 </a>
 <!-- version -->
 <a href="https://github.com/zoo3d1c/D-R/releases">
-<img src="https://img.shields.io/github/release-pre/zoo3d1c/D-R.svg?style=flat" alt="latest version"/>
+<img src="https://img.shields.io/github/release/zoo3d1c/D-R.svg?style=flat" alt="latest version"/>
 </a>
 <!-- platform -->
 <a href="https://github.com/zoo3d1c/D-R">
