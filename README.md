@@ -5,7 +5,7 @@
 <p>A Better Window Drag And Reszie Tool!</p>
 </div>
 
-[中文](https://github.com/zoo-3d/D-R/blob/main/README.md) | [English](https://github.com/zoo-3d/D-R/blob/main/README.en.md)
+[中文](README.md) | [English](README.en.md)
 
 <!-- shields -->
 <!-- downloads -->
