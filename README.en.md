@@ -2,7 +2,7 @@
 
 <div>
 <h2>D & R - for Mac and Windows</h2>
-<p>A Better Window Drag And Reszie Tool!</p>
+<p>A Better Window Drag And Resize Tool!</p>
 </div>
 
 [中文](README.md) | [English](README.en.md)
