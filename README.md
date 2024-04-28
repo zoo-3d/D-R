@@ -51,7 +51,7 @@
 前往 [Releases](https://github.com/zoo-3d/D-R/releases) 下载最新版本
 
 ## todo
-支持自定义操作方式
+- [x] 支持自定义操作方式
 
 ## 反馈
 欢迎留下你的使用[反馈](https://github.com/zoo-3d/D-R/issues)
