@@ -51,7 +51,7 @@ For TouchPad：
 go to [Releases](https://github.com/zoo-3d/D-R/releases)
 
 ## Todo
-user can custom action for drag or resize
+- [x] user can custom action for drag or resize
 
 ## Feedback
 Please submit new issues through [GithubIssues](https://github.com/zoo-3d/D-R/issues) to help us imporve.
